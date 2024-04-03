@@ -4,6 +4,7 @@ Project Description
 This project aims to design and build a 3D printed, ESP32-controlled aircraft. The aircraft will be fully programmable and remotely controlled, offering a unique and customizable flying experience.
 
 Features
+
 3D Printed Components: The main body of the aircraft, including the wings, tail, and fuselage, will be 3D printed. This allows for easy customization and repair.
 ESP32 Microcontroller: The brain of the aircraft is an ESP32 microcontroller. This powerful and versatile chip is perfect for controlling the various components of the aircraft.
 Remote Control: The aircraft will be controllable via a remote control interface, allowing the user to pilot the aircraft from a safe distance.
