@@ -9,6 +9,7 @@ Features
 ESP32 Microcontroller: The brain of the aircraft is an ESP32 microcontroller. This powerful and versatile chip is perfect for controlling the various components of the aircraft.
 Remote Control: The aircraft will be controllable via a remote control interface, allowing the user to pilot the aircraft from a safe distance.
 Programmable: With the ESP32, the aircraft can be programmed to perform a variety of maneuvers and actions. This opens up a world of possibilities for what the aircraft can do.
+
 Goals
 
 The goal of this project is to create a fully functional, 3D printed, ESP32-controlled aircraft. This project will demonstrate the capabilities of 3D printing and microcontroller programming in a fun and engaging way.
